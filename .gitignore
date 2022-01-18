@@ -1,1 +1,3 @@
 *.log
+bus_assignment/
+.ipynb_checkpoints/
